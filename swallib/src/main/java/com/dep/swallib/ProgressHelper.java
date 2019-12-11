@@ -2,7 +2,6 @@ package com.dep.swallib;
 
 import android.content.Context;
 
-import com.dep.testsweetallert.R;
 import com.pnikosis.materialishprogress.ProgressWheel;
 
 public class ProgressHelper {

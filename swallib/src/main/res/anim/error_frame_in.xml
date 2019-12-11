@@ -10,7 +10,7 @@
         android:toAlpha="1"
         android:duration="400"/>
 
-    <sweet:com.dep.testsweetallert.swal.Rotate3dAnimation
+    <sweet:com.dep.swallib.Rotate3dAnimation
         sweet:rollType="x"
         sweet:fromDeg="100"
         sweet:toDeg="0"

@@ -9,7 +9,6 @@ import android.util.TypedValue;
 import android.view.animation.Animation;
 import android.view.animation.Transformation;
 
-import com.dep.testsweetallert.R;
 
 public class Rotate3dAnimation extends Animation {
     private int mPivotXType = ABSOLUTE;
