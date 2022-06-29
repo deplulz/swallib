@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/swal.iml" filepath="$PROJECT_DIR$/swal.iml" />
-      <module fileurl="file://$PROJECT_DIR$/swallib/swallib.iml" filepath="$PROJECT_DIR$/swallib/swallib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/swal.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/swal.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/swallib/swal.swallib.iml" filepath="$PROJECT_DIR$/.idea/modules/swallib/swal.swallib.iml" />
     </modules>
   </component>
 </project>
